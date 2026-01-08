@@ -5,7 +5,7 @@
 ### Project Overview
 Comprehensive business intelligence analysis of OLIST's e-commerce operations, analyzing 100,000+ orders across Brazil (Jan 2016 - Sep 2018). This project demonstrates end-to-end analytics capabilities: SQL querying, data transformation, KPI development, predictive modeling, and actionable business recommendations based on real fulfillment and customer satisfaction data.
 
-### Amazon JD Alignment
+
 - **SQL & Data Analysis:** Advanced SQL queries for KPI calculation and business metrics
 - **Large Datasets:** Processing 100,000+ transaction records across multiple dimensions
 - **Dashboard Metrics:** Business KPI definition and visualization for stakeholder reporting
