@@ -1,4 +1,8 @@
          # OLIST E-Commerce Business Analytics
+
+         ## 📊 [View Complete Visualization Dashboard](VISUALIZATIONS.md)
+
+> **E-Commerce Analytics Visualizations**: Explore 10 comprehensive charts covering order trends, regional performance, customer satisfaction, delivery metrics, and operational optimization with detailed insights for OLIST marketplace growth.
          
 ## Data-Driven Operational Intelligence & Customer Experience Optimization
 
